@@ -14,3 +14,7 @@ I set up a Dabricks cluster to execute a pipeline with PySpark. Databricks creat
 - [x]	AWS CloudFormation
 
 ## Architecture Diagram:
+
+<img src="/Architecture Diagram.png">
+
+I made this diagram using [Diagrams.net](https://app.diagrams.net/)
